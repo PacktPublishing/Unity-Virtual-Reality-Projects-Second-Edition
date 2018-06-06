@@ -36,6 +36,3 @@ That should just about do it—a PC, the Unity software, a VR device, other tool
 * [Wireshark Revealed: Essential Skills for IT Professionals](https://www.packtpub.com/networking-and-servers/wireshark-revealed-essential-skills-it-professionals?utm_source=github&utm_medium=repository&utm_campaign=9781788833226)
 
 * [Unity 2017 2D Game Development - Beginners Guide [Video]](https://www.packtpub.com/game-development/unity-2017-2d-game-development-beginners-guide-video?utm_source=github&utm_medium=repository&utm_campaign=9781789349122)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
